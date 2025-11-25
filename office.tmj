@@ -698,6 +698,8 @@
          "height":21,
          "id":92,
          "name":"\u0411\u043b\u043e\u043a 2",
+         "offsetx":0,
+         "offsety":-12,
          "opacity":1,
          "type":"tilelayer",
          "visible":true,
