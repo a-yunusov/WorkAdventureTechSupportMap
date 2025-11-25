@@ -666,6 +666,54 @@
                  "width":128.666666666667,
                  "x":800.666666666667,
                  "y":323.333333333333
+                }, 
+                {
+                 "gid":3,
+                 "height":32,
+                 "id":72,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":511.666666666667,
+                 "y":307.333333333333
+                }, 
+                {
+                 "gid":3,
+                 "height":32,
+                 "id":73,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":543.666666666667,
+                 "y":307.666666666667
+                }, 
+                {
+                 "gid":3,
+                 "height":32,
+                 "id":74,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":512.333333333333,
+                 "y":332.333333333333
+                }, 
+                {
+                 "gid":3,
+                 "height":32,
+                 "id":75,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":32,
+                 "x":545,
+                 "y":340.666666666667
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -698,6 +746,8 @@
          "height":21,
          "id":96,
          "name":"Block",
+         "offsetx":0,
+         "offsety":11,
          "opacity":1,
          "type":"tilelayer",
          "visible":true,
@@ -706,7 +756,7 @@
          "y":0
         }],
  "nextlayerid":99,
- "nextobjectid":72,
+ "nextobjectid":76,
  "orientation":"orthogonal",
  "properties":[
         {
