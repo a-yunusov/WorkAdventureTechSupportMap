@@ -674,12 +674,33 @@
                  "height":127.5,
                  "id":77,
                  "name":"",
+                 "properties":[
+                        {
+                         "name":"focusable",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
+                         "name":"jitsiRoom",
+                         "type":"string",
+                         "value":"ChillZone"
+                        }, 
+                        {
+                         "name":"jitsiTrigger",
+                         "type":"string",
+                         "value":"onaction"
+                        }, 
+                        {
+                         "name":"zoom_margin",
+                         "type":"float",
+                         "value":1
+                        }],
                  "rotation":0,
                  "type":"",
                  "visible":true,
                  "width":192.5,
-                 "x":32.5,
-                 "y":224
+                 "x":31.5,
+                 "y":223
                 }],
          "opacity":1,
          "type":"objectgroup",
