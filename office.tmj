@@ -652,9 +652,31 @@
          "visible":true,
          "x":0,
          "y":0
+        }, 
+        {
+         "draworder":"topdown",
+         "id":103,
+         "name":"zone",
+         "objects":[
+                {
+                 "height":127.5,
+                 "id":76,
+                 "name":"",
+                 "rotation":0,
+                 "type":"",
+                 "visible":true,
+                 "width":191,
+                 "x":32,
+                 "y":96
+                }],
+         "opacity":1,
+         "type":"objectgroup",
+         "visible":true,
+         "x":0,
+         "y":0
         }],
- "nextlayerid":103,
- "nextobjectid":76,
+ "nextlayerid":104,
+ "nextobjectid":77,
  "orientation":"orthogonal",
  "properties":[
         {
