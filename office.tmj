@@ -672,7 +672,7 @@
                 {
                  "height":125.5,
                  "id":78,
-                 "name":"",
+                 "name":"JustChillZone",
                  "properties":[
                         {
                          "name":"focusable",
@@ -695,7 +695,7 @@
                          "value":1
                         }],
                  "rotation":0,
-                 "type":"",
+                 "type":"area",
                  "visible":true,
                  "width":192,
                  "x":30.5,
