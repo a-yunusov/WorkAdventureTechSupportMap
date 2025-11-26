@@ -700,6 +700,23 @@
                  "width":192,
                  "x":30.5,
                  "y":97
+                }, 
+                {
+                 "height":96,
+                 "id":79,
+                 "name":"silentZone",
+                 "properties":[
+                        {
+                         "name":"silent",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":95.5,
+                 "x":800.5,
+                 "y":224
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -708,7 +725,7 @@
          "y":0
         }],
  "nextlayerid":104,
- "nextobjectid":79,
+ "nextobjectid":80,
  "orientation":"orthogonal",
  "properties":[
         {
